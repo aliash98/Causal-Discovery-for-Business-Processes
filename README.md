@@ -15,6 +15,7 @@ This notebook facilitates the calculation of Average Treatment Effects (ATE) and
 
 
 **Abstract of the paper**
+
 Various types of decisions influence the execution of a busi- MW, update once
 intro is doneness process, e.g., in terms of control-flow and resource assignments. Data
 recorded during process execution can be used to identify which decisions
