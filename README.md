@@ -14,7 +14,7 @@ This notebook extracts a tabular dataset of decisions and contextual variables f
 This notebook facilitates the calculation of Average Treatment Effects (ATE) and Conditional Average Treatment Effects (CATE) using do-calculus. It requires an input causal graph and a .csv dataset.
 
 
-## Abstract of the paper
+## Abstract
 
 Various types of decisions influence the execution of a busi- MW, update once
 intro is doneness process, e.g., in terms of control-flow and resource assignments. Data
